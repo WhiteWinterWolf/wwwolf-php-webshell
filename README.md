@@ -66,4 +66,4 @@ This allows to upload a file in a given directory and immediately execute it in
 a single HTTP request.
 
 This script is provided only for security research and assessment purposes.
-Do not use it fo anything illegal!
+Do not use it for anything illegal!
