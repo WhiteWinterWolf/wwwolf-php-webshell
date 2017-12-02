@@ -3,9 +3,9 @@
 ### passhash.sh BEGIN
 ################################################################################
 # Copyright 2017 WhiteWinterWolf (https://www.whitewinterwolf.com)
-# https://github.com/WhiteWinterWolf/php-webshell/
+# https://www.whitewinterwolf.com/tags/php-webshell/
 #
-# This file is part of wwolf-php-webshell.
+# This file is part of wwwolf-php-webshell.
 #
 # wwwolf-php-webshell is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
