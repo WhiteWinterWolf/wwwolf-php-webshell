@@ -1,4 +1,4 @@
-# WhiteWinterWolf's PHP web shell
+# wwwolf's PHP web shell
 
 I frequently encountered issues when using other web shells:
 
@@ -24,6 +24,7 @@ you want from there without getting in your way.
 
 *WhiteWinterWolf's PHP web shell*:
 
+- Access can be **password protected**.
 - Is compatible with both **UNIX-like and Windows systems with no modification**.
 - Attempts to clear PHP output buffer (ie. drop any "garbage" code already
   produced by the attacked application) and enforce PHP code execution
@@ -65,5 +66,11 @@ This script applies the form settings in the given order:
 This allows to upload a file in a given directory and immediately execute it in
 a single HTTP request.
 
+More information can be found on the [main project page][].
+
 This script is provided only for security research and assessment purposes.
 Do not use it for anything illegal!
+
+
+[main project page]: https://www.whitewinterwolf.com/tags/php-webshell/
+	"wwwolf's PHP webshell project page"
